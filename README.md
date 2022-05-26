@@ -1,2 +1,2 @@
 # PORTFOLIO
- Repositorio do meu portfolio
+ Portfolio contendo um resumo sobre meus conhecimentos e projetos.
